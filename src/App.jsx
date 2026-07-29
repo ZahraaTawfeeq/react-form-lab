@@ -1,6 +1,5 @@
 import { useState } from 'react'
-import BookShelf from '../../../../lectures/Unit 3/vite-project/src/components/BookShelf'
-
+import BookShelf from './components/BookShelf'
 function App() {
   const [count, setCount] = useState(0)
 

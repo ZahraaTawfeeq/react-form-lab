@@ -1,0 +1,19 @@
+.add-book {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: solid grey 1px;
+    padding: 20px;
+margin: 20px auto;    width: 50%;
+}
+
+.add-form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.add {
+    align-items: center;
+}
